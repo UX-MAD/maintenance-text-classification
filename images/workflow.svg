@@ -1,0 +1,38 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1158' height='168' viewBox='0 0 1158 168'>
+<rect width='1158' height='168' fill='#fcfcfb'/>
+<defs><marker id='a' markerWidth='8' markerHeight='8' refX='7' refY='4' orient='auto'><path d='M0,0 L8,4 L0,8 z' fill='#52514e'/></marker></defs>
+<rect x='24' y='24' width='150' height='120' rx='12' fill='#ffffff' stroke='#2a78d6' stroke-width='2'/>
+<text x='99' y='66' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='16' font-weight='700' fill='#0b0b0b'>Service</text>
+<text x='99' y='85' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='16' font-weight='700' fill='#0b0b0b'>reports</text>
+<text x='99' y='112' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='12' fill='#52514e'>free-text maintenance</text>
+<text x='99' y='128' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='12' fill='#52514e'>notes</text>
+<line x1='180' y1='84' x2='208' y2='84' stroke='#52514e' stroke-width='2' marker-end='url(#a)'/>
+<rect x='216' y='24' width='150' height='120' rx='12' fill='#ffffff' stroke='#2a78d6' stroke-width='2'/>
+<text x='291' y='66' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='16' font-weight='700' fill='#0b0b0b'>Text</text>
+<text x='291' y='85' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='16' font-weight='700' fill='#0b0b0b'>preparation</text>
+<text x='291' y='112' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='12' fill='#52514e'>cleaning and</text>
+<text x='291' y='128' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='12' fill='#52514e'>structuring</text>
+<line x1='372' y1='84' x2='400' y2='84' stroke='#52514e' stroke-width='2' marker-end='url(#a)'/>
+<rect x='408' y='24' width='150' height='120' rx='12' fill='#ffffff' stroke='#2a78d6' stroke-width='2'/>
+<text x='483' y='66' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='16' font-weight='700' fill='#0b0b0b'>Language</text>
+<text x='483' y='85' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='16' font-weight='700' fill='#0b0b0b'>model</text>
+<text x='483' y='112' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='12' fill='#52514e'>domain-adapted</text>
+<text x='483' y='128' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='12' fill='#52514e'>classifier</text>
+<line x1='564' y1='84' x2='592' y2='84' stroke='#52514e' stroke-width='2' marker-end='url(#a)'/>
+<rect x='600' y='24' width='150' height='120' rx='12' fill='#ffffff' stroke='#2a78d6' stroke-width='2'/>
+<text x='675' y='66' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='16' font-weight='700' fill='#0b0b0b'>Category</text>
+<text x='675' y='85' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='16' font-weight='700' fill='#0b0b0b'>+ confidence</text>
+<text x='675' y='112' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='12' fill='#52514e'>label per</text>
+<text x='675' y='128' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='12' fill='#52514e'>report</text>
+<line x1='756' y1='84' x2='784' y2='84' stroke='#52514e' stroke-width='2' marker-end='url(#a)'/>
+<rect x='792' y='24' width='150' height='120' rx='12' fill='#ffffff' stroke='#2a78d6' stroke-width='2'/>
+<text x='867' y='76' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='16' font-weight='700' fill='#0b0b0b'>Evaluation</text>
+<text x='867' y='112' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='12' fill='#52514e'>per-class results</text>
+<text x='867' y='128' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='12' fill='#52514e'>and errors</text>
+<line x1='948' y1='84' x2='976' y2='84' stroke='#52514e' stroke-width='2' marker-end='url(#a)'/>
+<rect x='984' y='24' width='150' height='120' rx='12' fill='#2a78d6' stroke='#2a78d6' stroke-width='2'/>
+<text x='1059' y='66' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='16' font-weight='700' fill='#ffffff'>Team</text>
+<text x='1059' y='85' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='16' font-weight='700' fill='#ffffff'>routing</text>
+<text x='1059' y='112' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='12' fill='#ffffff'>insights and</text>
+<text x='1059' y='128' text-anchor='middle' font-family='Helvetica, Arial, sans-serif' font-size='12' fill='#ffffff'>human review</text>
+</svg>
