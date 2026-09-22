@@ -36,6 +36,14 @@ become visible.
 - A clear picture of which categories can be automated reliably and which need human review.
 - Recommendations for next steps, including data-quality improvements at the source.
 
+## Illustrations
+
+![Semantic map of maintenance text (synthetic data)](images/semantic_map.svg)
+
+![Training vs. validation loss (synthetic data)](images/training_curve.svg)
+
+*Both figures are illustrative only. They use randomly generated data and show no project results.*
+
 ## Skills
 
 `Python` · `NLP` · `Hugging Face Transformers` · `PyTorch` · `scikit-learn` · `pandas` ·
